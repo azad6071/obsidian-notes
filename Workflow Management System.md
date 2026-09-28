@@ -41,3 +41,6 @@ of workflow node and api payload generation
 I think deciding variable can be part of payload which should be json. Decide for api design
 
 7. Scaling - N Nodes, `Dependent ones, Condition based.
+
+https://console.upstash.com/redis/1857b8ce-ecce-4016-9d7b-be819f22f0c4/details?teamid=0
+

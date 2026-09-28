@@ -11,6 +11,8 @@ So when you have inconsistent data, you have two choices when a request comes to
 Either return inconsistent data - You're having availability
 return error and make them wait until partition recovers - You're having consistency
 
+Building an index on a populated table is much faster than updating it row-by-row
+
 
 **Elevator System**
 Elevator,Floor,Button,Door(Open/Closed),Request

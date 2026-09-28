@@ -19,6 +19,13 @@ int main(){
 
 ==This is very important==
 
+Discussion with Azad
+Tuesday, August 4 · 9:00 – 10:30pm
+Time zone: Asia/Kolkata
+Google Meet joining info
+Video call link: https://meet.google.com/idi-gdso-bcr
+Or dial: ‪(US) +1 314-666-2347‬ PIN: ‪172 331 973‬#
+More phone numbers: https://tel.meet/idi-gdso-bcr?pin=6644464398692
 
 
 Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
